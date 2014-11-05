@@ -1,0 +1,90 @@
+Chapter 17:
+
+The silence was broken by a clatter as the door swung shut after Expo, and the
+shuffle of his slippers as he blearily crossed the data center's perforated
+tile floor to see what could have drawn his coworkers into such a tight huddle
+around Drip's screen. 
+
+"Sorry I'm late" he muttered, carefully brandishing his oversized mug of
+steaming coffee in the only remaining space where spills wouldn't jeopardize
+any keyboards or shoes as he joined the crowd around the screen, "that the
+computer?"
+
+"mmhmm" Drip confirmed, snaking an arm over Expo's shoulder to switch
+workspaces back to the log difference graph, "As is this."
+
+"Well uhh" Expo blinked rapidly, stared alternatingly at the Cluster and the
+screen, and rubbed the bridge of his nose with his free hand, "what'd you
+change? better put it back, sounds like you're hurting the poor thing."
+
+The rest of the team unanimously redirected their stares of befuddled
+amazement from the Clutser to Expo. Glances shot between every permutation of
+the three, each the same silent conversation: "He just called it a person?"
+"Yeah, sounds like he cares about it" "I never heard him care about anything
+at all before" "me neither". 
+
+"Uhh." Drip was the first to interrupt this next shocked pause, perhaps by
+dint of having had the most time to come to grips with the potential that
+their valuable digital posession might be otherwise posessed. "I guess you're
+right. The first message was after a run with real big data; the second had
+all the debugging turned on and was running maybe 1/4 speed on a tiny fake
+dataset... So I don't know where it thinks shit's going fast from..."
+
+"oh, that's the easy part" Expo countered, "remember Weissman's application
+special relativity to plausible computational motion?" Oblivious to the team's
+blank stares, he continued, " If you get fewer ops per second than everything
+around you, it'll look like it's going by very fast. If you're performing more
+computations per second relative to the rate of input, the input will
+subjectively appear to be coming in very slowly. It's why a backed up queue
+can't keep up -- rate of process relative to rate of new data input. It's like
+the first math class you take in post doctoral studies..." He trailed off,
+finally remembering tht he was the only person in the room who had had the
+patience to stick with academia for any further than an Associate's degree.
+"Anyways, if you're computing slowly, the world seems to go fast. If you're
+computing fast, the world seems slow. Ya?"
+
+After several moments' thought, the others gradually began nodding their
+affirmation. 
+
+"Okay, so we overclock it?" postulated Casemod. "I could keep it within
+operating temperatures to... half again the current speeds, give or take?" The
+curvy hacker fidgeted with a spiral of metal embedded in the cartilege of an
+ear which poked out of her vividly dyed hair as she ran the requisite
+calculations in her head.
+
+"Maybe" agreed Drippy, "but to spin it up like that, what do we tell it to
+*do*? Shit's too smart to burn power on a bunch of no-ops, and I assure you
+that nobody wrote a thing to yell on my terminal and scare the crap out of me.
+So it's something emergent, but I don't know what we gotta push to get it to
+emerge..."
+
+"What've we been running lately?" mused Fish "Stupid ill-optimized boxes of
+numbers from Liu's analytics again? I thought you fixed that with that
+self-optimizing compiler you found out on the web" he grinned at Drip, fondly
+recollecting the drinks over which he'd first heard the story of that
+particular optimization.
+
+"Ya, we're stuck with the compiler and we can effectively never go back, too
+much speedup for the customers to ever let us revert" summarized the sysadmin.
+"I mean, it was those matrices that we fed it before, but they won't run the
+same way again -- estimate is that " his fingers flashed at the keyboard,
+spelling out a quick harmony to the verbal discussion as he summoned a screen
+of data and searched it for a key phrase, "45% of the numerical, calculation,
+and general floating point rounding errors were eliminated by the third pass,
+and by that time we had it going fast enough to run the whole set as the test
+data whose results we saw *here*" he ruefully flashed the second message on
+the screen before the staccato coda of a window switch back into the results
+of the compiler's self-analysis. 
+
+Expo crumpled his soft face into an expression of deep thought and gazed into
+the monitor like a crystal ball for several seconds. "So it's not the quantity
+of data, but the novelty, that seems to count?"
+
+Drippy grinned. "Yep, from all two of our highly reliable and probably not a
+prank by our crazy boss data points, I'd say your conclusion is exactly
+right!" Sharing the situation with his coworkers, and the ensuing reasusrance
+that he wasn't much crazier than the rest, seemed to have lifted a massive
+weight off his shoulders. Pantomiming Expo's mannerisms of concern for the
+machine, he skipped over to its plexi glass enclosure and spoke into it. "you
+doing all right in there, little buddy? we'll get you some nice fresh data to
+nom on and everything'll be okay."

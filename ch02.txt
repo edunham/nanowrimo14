@@ -1,0 +1,73 @@
+Chapter 2: Drip
+
+Turns out Smith was right after all, that the transition to new logging media
+wouldn't go as smoothly as I thought. I'm not sure what's actually happening
+-- maybe the overhead of processing pegged a few of the wrong cores? But I
+thought I'd accounted for that. Little blog, you won't think I'm stupid if I
+rubber-duck at you a little, will you? Of course not, and I can jsut delete
+you before you become a blog at all. It'll be a little textual abortion, like
+my mother would've had if she could read... 
+
+So, the old setup is was standard for a modern DevOps Butt. (don't worry,
+nothing interestingly racy here -- we think in these terms 'cuase cloud's too
+buzzwordey for our tastes). Well, not really standard, since we're contracted
+to do some of the most ridiculous big-data tasks that a modern university can
+think up (and believe you me, some of their implementations, let alone the
+goals, wuld make any algorithm designer roll over in his grave). But there's
+The Cluster, a bunch of converted GPU mining rigs that were practically free
+after the first mathcoin bubble popped, suspended in the center of the life
+support apparatus that comprises a nice modern DC. The Cluster has a lot of
+SSD under the hood and enough RAM to sate a whole herd of horny ewes that lost
+their scotsmen, but till this project all it did was toss the numbers back and
+forth for the clueless ivory-tower nerds. Then outside the cluster proper, out
+in the life support, the relevant bit here is Logging. Logging was a big old
+salvaged spinny disk array with a couple cores not quite holding up under the
+load of compressing all the standard events and errors that The Cluster
+invariably spat out. You think a web server falls over constantly? Try keeping
+up 2 million lines of R, patched together by a foreign grad student who dreams
+in numbers but can't grok English well enough to read a line of docs, cobbled
+out of bits and pieces of stackoverflow she ran into by the grace of having
+learnt to Google bits of errors. At least we had a fat pipe up into Internet
+Two, or VCS updates on the odd chance that the eggheads remembered to commit
+would've taken weeks rather than just all day. 
+
+Anyways, the errors were a one-way stream feeding out into logging, them
+logging itself would break when the cluster started spinning too fast for it
+to keep up with. I came up with this brilliant idea that we could use the
+latent cores -- none of the applications really max out everything at once, as
+the whole mess is a feat of Frankenstinean multipurpose engineering -- to help
+Logging out, and possibly even save the poor box some disk by throwing in some
+conveniently GPL'd predictive analytics tooling that I'd recently found. By
+the end of the week, though, I'd be cursing the thing. 
+
+Because it worked perfectly, it worked beautifully, it worked magnificently
+over on the Logging box. As long as the pipe kept pointing one way -- out of
+the Cluster -- predictives could tell me precisely when and where things were
+going wrong and, with a bit more tooling and some optimization crap that I
+think a compiler nerd had written as a joke to mock the very noobs that we're
+hosting here, I got it to the point where Logging was quietly committing fixes
+to the most poorly written sections of whatever happened to be running on the
+Cluster at the time. I even re-ran some old client code while allowing
+optimizations, and surprisingly enough, despite the anti-error optimizations
+the outputs managed to remain exactly the same! It sped up weeks' worth of
+processing to a matter of hours, as well. 
+
+Now we're more or less dependent on the damn thing, because we've run new code
+through it. The clients will flip their shit and potentially pull our funding
+if a program that ran in an hour last week suddenly starts taking 4 days, due
+to no changes at all of our own. It's An Improvement, and so pulling it out
+would be A Detriment to our infrastructure, and so it's here to stay.
+
+So yeah, this was great and all, until I plugged in the final step of the loop
+and completed the cycle and offloaded the analysis back onto The Cluster
+itself. I ran a standard customer test job, and Logging flipped its shit!
+Messages were going out of the job queue, into logging, from logging to
+processing on the Cluster's latent cores, back to logging again... and maybe
+five percent of the messages which Logging knew should have come back
+unchanged, were subtly modified! 
+
+Writing it off as an erroneous self-modification by the trick compiler, I
+constructed a URL from memory that would graph the deltas between the inbound
+and outbound logs where they should've matched. What I saw flashed me back to
+my days as a nurse in a mental hospital, and it was terrifying. 
+

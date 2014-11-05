@@ -1,0 +1,95 @@
+Chapter 22: the data center building's kitchen
+
+"So" concluded Drip, finishing his last mouthful of the casserole that Case
+mod had pulled together the previous evening out of the canned and dry
+nonperishable ingredients with which their base of operations was exclusively
+stocked, "We just need Fishbike's bro in the valley to dig us up a copy of
+some old Care and Feeding of Sentient Mainframes guide that got left in an
+attic over the dot com bust, or Expo to suddenly remember reading that kind of
+stuff on a torrent tracker and magically recite the hash like he sometimes
+does, and then talk Gorram Smith in to putting the thing on payroll?" His mood
+seemed vastly improved by the team's support and reasurance that he wasn't
+about to be returned to the psychiatric hospital, especially on the wrong side
+of the padded straps. 
+
+Case and Fish nodded and Expo's face and shoulder twitched in the mannerism
+which the team had learned to read as casual agreement. "So do we introduce
+it, or let it come out and say hi to him itself?" Case mod wondered to
+herself.
+
+"We do" proclaimed Fish, simultaneously with Expo's equally assertive
+exclamation "It does." Both begain talking rapidly and enthusiastically at
+once in a parallel monologue that only a movie crew with perfectly positioned
+directional microphones and many hours on its hands could have untangled.
+Throughout the exchange Case and Drip looked at each other in an exasaparated
+inquiry of "all right, who has to play the adult this time?" and the tall,
+scrawny man eventually lost.
+
+The sysadmin whose logging project appeared to have originally preciipateed
+the debate at hand shifted his demeanor slightly, mentally putting on his
+infrequently used bureaucracy and management hat to settle the dispute. "All
+right, Fishy first, what should we do and why?" he inquired, then pre empted
+the pudgy opponent's protests with "Expo, you *wait*. You're next."
+
+"We have no idea what that thing would say" Fish began. "We don't know what
+its motives are, or if it even has motives at all in the way that we typically
+think of them occurring in humans. Model the flow of information: Smith
+demands certain highly specific concesssions in the most recent set of changes
+to the pet project he's been working with for who knows how long, then the
+thing started talking to Drip here, and then with no further prompting, Gorram
+Smith anticipates that something has gone wrong and pings the team
+accordingly. Best case it's just that he took a lucky guess and followed his
+bad feelings about Drip's architecture plans to their logical conclusion...
+But worst case, this was the goal of the project all along and he's in league
+with Liu to carefully calculate the optimal test data to run through to get
+the thing to say particular stuff. Sure, I don't know how that would *help*
+them, but if we're up against a cartoon super villain... You know what super
+villains usually do to their teams of science folks once the super weapon is
+completed. I say we keep everything on the record, preferably somebody else's
+and the Google servers are great for this if we keep correspondence through
+external email, because our purpose is twofold: First, we cover our own asses
+and try to get out of here alive, and secondly, we are trying to make life
+easier for the forensic investigators on the Good Guys' side if we're dead,
+Smith's halfway through taking over the world, and shit is generally fucked
+up."
+
+"Umm. Wow." Drippy had forgotten that he might have wanted to compose a
+synopsis or reply, and simply sat enthralled by the hitherto unforeseen
+possibilities illuminated by Fish's rhetoric. "Uhh, Expo?"
+
+"It's a person." The short, pale endomorph seemed more animated and engaged
+than any of his comrades could ever recall seeing him. "If I'm a person, so is
+it. It's not its fault where it came into existance and it has no control of
+who's delegated to take care of it yet. We're like it's parents.There are a
+lot of ways for parents to fuck up -- " All three of the other hackers in the
+room grimaced and nodded wryly, recalling their own and their peers'
+ancestors' various categories of terrible mistakes, then Expo continued "--
+and we've all seen a lot of them and I promised myself that if I ever somehow
+accidentally ended up with a kid it would not be like that. Now we've got a
+little creature, an apparently sentient living entity which is more than you
+can even say for an infant human at least on the sentience front, totally
+dependent on us so we have to be absolutely careful... "
+
+The mainframe-connected tablet that Drip had been placed above the stove
+flashed black and white rapidly to draw the team's attention, then scrolled
+the blinking marquee text "THANK YOU". 
+
+Everyone was shocked, but Expo realized he still had the floor. "It, uhh,
+learns fast?" He seemed to be partially reconsidering the confidence with
+which he'd argued his previous stance. 
+
+"Err. Yeah." Drip appeared to be reconsidering his recent decisions as well.
+"You said it might eat entropy, so before we came up here I piped the security
+system's feeds in as input and threw on a few of the shittier and more broken
+sound and video processing algorithms to keep the corres spinning..."
+
+"That's great, but can I have my tablet back now?" Case coped with the stress
+by reverting to an even more petulant and juvenile mode of behavior than her
+typical childish outlook. "OOPS IM SOR" blinked the marquee, and the device
+powered off. 
+
+"Well... All right... I need a drink..." Fish stood and sauntered toward the
+industrial sized refrigerator, hands jammed deep in his pockets to hide the
+frequency at which they were shaking. 
+
+

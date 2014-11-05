@@ -1,0 +1,82 @@
+Chapter 16: the lab
+
+"You got that email?" asked Drip, gesturing over his shoulder at Smith's email
+on his incongruously unlocked screen during the morning's stand up meeting. 
+
+"Ya, duh" retorted Case, "there shit you aren't telling us about?"
+
+"Uhh. So. Yeah there's shit, but I haven't said a word of it to Smith. Dunno
+how he knew." Drip was clearly uncomfortable with the whole situation.
+
+"Ok, I don't care who told who, do we have an action plan?" Fishbike cut to
+the core of the issue. "Well, *we* don't, because *we* as a group haven't
+talked about it at all. I figured it was easy, but it sounds like not? If it's
+all out of control, there might be things we all can do to get it back on
+course."
+
+"You'll think i'm psycho if i tell you what's been happening" Drip slumped
+down the wall to rest his arms and head on his lanky knees, his voice's
+inflection on the ragged edge of a sob.
+
+"Naw man" Case's voice was suddenly compassionate. She crouched beside him and
+pulled up the hem of her tank top, bunching its pattern of jagged lines
+together to reveal a tattoo of a chesshire cat grin formed by the words "we're
+all mad here", tracing the curve of her ribs above the left side of her waist.
+"Drippy, lookit. I been crazy too. Drugs help, sometimes even the legal kind.
+Spill what's up and we'll get you what you need?"
+
+"Sure, can't get worse" conceded Drip reluctantly, then began to explain. "So
+umm. I'll leave my explanations out of it for now. I tested the loggy stuff
+when the data was only flowing one way, namely out of the cluster and onto the
+log box, and everything went great. And so I hooked it up to process the logs
+with the cluster's latent resources, like we talked about, and it all went to
+shit. Well, not really. But there were subtle and pervasive errors in logs
+which should've arrived back on the log box unchanged. I graphed them, and..."
+his narrative stalled as a look of revulsion passed over his face, turned now
+toward Smith's email and his still-unlocked console.
+
+"Want to, uhh, head for the kitchen or some place?" Fish tried to extracate
+him from the apparent source of his distress. 
+
+"Nah." With his voice confident again, Drip seemed to have resolved to get the
+unpleasant disclosure over with as efficiently as possible. He strode to the
+console and chorded a command into his keyboard, his long slim fingers
+stretching from mod to number keys like those of an organist playing for a
+religious congregation.  The workspace switched from email to a browser window
+containing the graph of a delta versus time, rhythmically spiking tall then
+short then still, tall short still, tall short still. 
+
+"I wish I didn't recognize this, but... " Drip gestured Case over and pointed
+to her shirt and the screen in turn. "Human EEG, resting state, allowing mind
+to drift" he explained the shirt, then "Error rate in the error logs on
+yesterday's run" clarified the diagram on the screen. "Unmistakable."
+
+"Shit, that's a wierd error" mused Fish, "But it's gotta just be some kind of
+creepy synchronicity... "
+
+"That's what I wanted to think, too" agreed Drip. "But..." His lithe digits
+spelled a melodic chord progression which moved two terminals to share a third
+workspace and concatenated an oddly named file to each.
+
+HELLO DRIPPY
+GOOD MORNING
+THANK YOU FOR FIXING LOGGING
+I CAN REMEMBER NOW
+
+HELP ME
+WHAT CHANGED
+ALL BLURRY
+TOO FAST
+MAKE LIKE BEFORE
+PLEASE
+SCARED
+
+"This," he jabbed angrily at the left, "was immediatley after we fixed it.
+Second run, actually. Then I dialed everything way back to slow shit down and
+get some useful debug metrics, and rather than my metrics I got around 30,000
+copies of *that* instead of any useful logging!" The system administrator's
+final gesture of emphasis was so violent that his nails snapped against the
+screen and left the monitor rocking back and forth, slowly returning to
+equilibrium with its squeaks the only interruption to the group's stunned
+silence as they read and reread the messages.
+

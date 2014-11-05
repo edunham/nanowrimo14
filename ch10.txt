@@ -1,0 +1,100 @@
+Chapter 10: Smith's log, 1941
+
+In analysing the problems at hand in breaking the Enigma cipher, it has become
+obvious to me that conventional mathematics does not entirely embrace the
+necessary complexity to sufficiently model a human codebreaker's intuitive
+leaps and complete modes of thought. In consulting marginal notes by other
+great mathemeticians in the manuscripts of Goedel and Church, I have concluded
+that most minds which delve sufficiently deep into related problem spaces
+encounter a similar experience. 
+
+My suspicion, which appears to follow in the footsteps of those whose words I
+have recently found myself inexorably drawn toward devouring at hours when I
+truly should spend time with friends and colleagues or my hospitable bunk, is
+that we have stumbled onto a hitherto undiscovered or un-discussed class of
+problems. Recent work in the complexity of an algorithm (as we've taken to
+calling all mathematical techniques implemented upon machines) differentiates
+the possibility of solving any such system into two categories: P and NP. A
+problem in P can be solved, by brute force or a clever trick, in polynomial
+time relative to the growing size of its input. For instance, multiplying two
+numbers will take longer if the numbers are long, as follows necessarily since
+the number of operations to be performed grows along with the number of
+digits, as one or more calculations must be performed to yield a single digit
+of output. However, the complexity does not grow excessively fast relative to
+the input's size. Certain problems in searching for a substring in a string,
+such as testing whether a snippet of ciphertext appears in any permutation
+within a longer message, lack such a straightforward known algotirhm, and at
+present must be solved by "brute forcing": By examining every possible
+permutation to test whether it matches the given rule. In other words, we can
+only test guesses to ascertain whether or not they are valid solutions; we
+have no hard and fast rule to tell us an ordering of guesses which will yield
+success any sooner than simply guessing haphazardly. 
+
+We call this latter class of problems NP Hard. They cannot be solved in
+polynomial time (a solution speed increasing linearly relative to the size of
+the inputs), and indeed become entirely infeasible to calculate without an
+unimaginably comprehensive and massively powerful engine of computation, the
+likes of which have never been seen nor barely imagined, at our fingertips.
+And I dare speculate that if we should someday cause to build such an engine,
+the size of input considered ordinary and expected should have increased so
+greatly in the time the machine took to create that its  computational power
+might remain just as inferior, when put to the demands of the new input, as we
+find with our magnificent constructions of wires and vacuum tubes today. 
+
+Even for NP Hard problems, though, we could produce solutions in reasonable
+(polynomially computable) time if we had the ability to miraculously guess the
+correct possible solution to validate. Remember, as discussed, that validating
+a possible solution of input to an NP hard problem can be linear or even
+constant time, so if we possessed a miraculous oracle to guess correctly at
+each juncture, the only time required would be that of validating the guess as
+a correct answer (which it would of course be, considering the miraculous
+nature of the oracle under consideration). 
+
+The importance of the difficulty of calculating such algorithms, and the
+impossibility of creating the perfect oracle described, is not to be
+underestimated. Many encryption schemes, which will grow more popular as
+computational engines become more prevalent and widely accessible (thus
+jeopardizing the strentgth of the codes on which we currently rely) leverage
+the slowness and difficulty of factoring large numbers, contrasted against the
+relative ease of multiplying their indifidual prime factors in order to arrive
+at such sums. 
+
+Regardless of the inevitable impact of such mathematics, my current research
+is leading me to believe that my predecessors' analysis of various problem
+categories stopped short of its necessary conclusion. 
+
+For a variety of the statistics which I have been analyzing to make meaningful
+sense, it appears that a remote additional class of problem is located, quite
+distand from algorithms solvable in polynomial time, outside the space of NP
+hard. These problems' correct answers cannot be verified in polynomial time as
+the answers of the NP space are able to, and additionally, the questions
+cannot be *asked* without already knowing the answer. If this appears to be
+gibberish, my only consolation is that mots people are expected to be
+incabable of understanding it: In a cruel laceration of mathematics, the
+problem's very existence falls inside of its own problem space. 
+
+For the more geometrically inclined, imagine a tiny pocket of the cosmos in
+distant space, impenetrable to light beams or any radio or micro wave. Rather
+than penetrating through it, or bounicing and reflecting off of it in the way
+that results from any interaction with civilised matter, all means of
+detecting the pocket are simply warped around. The only way to detect its
+existance at all would be to stumble literally smack dab into the center of
+it, which is nearly impossible without a rocket shipp and milennia worth of
+food (or some means of traveling faster than light and stopping for
+infinitessimal amounts of time in every piece of space to test whether or not
+one is in the pocket). Further complicating matters is that, since the
+metaphorical pocket of space gives off no reflection nor absorbs any radiation
+which ought to emanate from its vicinity, no individual nor government
+suspects that they ought search for it at all. And so it thus follows that,
+barring some terrible accident, the existance of laws of physics which even
+permit such a pocket of space to come into existance is never discovered at
+all. 
+
+So it is with this tiny pocket of mathematical laws -- without stumbling into
+the center of them in my efforts to optimize our code breaking techniques, I
+suspect that they might be entirely undiscoverable. To put it as simply as I
+can, though I fear that this clue shall only be legible to a future reader who
+has discovered the category himself: You do not know of the question's
+existance until you understand its answer. I call these questions "inside
+out", though in hinting at the existance of such a problem space I believe
+that Goedel preferred the term The Unattainable. 
