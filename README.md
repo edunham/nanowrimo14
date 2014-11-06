@@ -1,6 +1,6 @@
 This is my [NaNoWriMo](http://nanowrimo.org) for November 2014.
 
-![Word Count Badge](http://nanowrimo-badge.herokuapp.com/edunham/nanowrimo.svg)
+![Word Count Badge](http://nanowrimo-badge.herokuapp.com/edunham/nanowrimo14.svg)
 
 This is a first draft. It is incomplete, will be messy and will
 have errors. Pull requests to fix syntax are **not** welcome,
