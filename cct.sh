@@ -10,6 +10,6 @@ do
     echo "</pre><a name=\"${g%%.*}\"><h1>" >> index.html;
     head -n 1 $f >> index.html;
     echo "</h1></a><pre>" >> index.html;
-    tail -n+1 $f >> index.html;
+    tail -n+2 $f >> index.html;
 done
 cat post.txt >> index.html;
