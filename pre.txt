@@ -61,4 +61,10 @@ the unfinished version at your own risk.
 <a href="#ch22">Chapter 22</a>: In The Lab Building's Kitchen<br>
 <a href="#ch23">Chapter 23</a>: Jen Snuth<br>
 <a href="#ch24">Chapter 24</a>: Erasmus & Cuthbert<br>
+<a href="#ch25">Chapter 25</a>: The Server Room<br>
+<a href="#ch26">Chapter 26</a>: Coming Soon<br>
+<a href="#ch27">Chapter 27</a>: Coming Soon<br>
+<a href="#ch28">Chapter 28</a>: Coming Soon<br>
+<a href="#ch29">Chapter 29</a>: Coming Soon<br>
+<a href="#ch30">Chapter 30</a>: Coming Soon<br>
 <pre>
