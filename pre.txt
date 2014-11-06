@@ -3,6 +3,7 @@
 <title>NaNoWriMo 2014</title>
 </head>
 <body>
+<div style="margin-left: 10%;">
 <pre>
 
                        ____            _ _   _     _     
@@ -16,9 +17,11 @@
             /_/   \_\ .__/| .__/|_|  \___|_| |_|\__|_|\___\___|
                     |_|   |_| 
 
-
-                                NaNoWriMo 2014
-
+</pre>
+<br>
+<img src="http://nanowrimo-badge.herokuapp.com/edunham/nanowrimo14.svg">
+<br>
+<pre>
 DISCLAIMER: This is a first draft and is not likely to ever get correctly
 edited. Negative feedback and commentary on the contant and obvious
 typographical, grammatical, character, and plot errors are unwelcome and will
